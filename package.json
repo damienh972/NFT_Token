@@ -1,0 +1,25 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "building nft token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienh972/NFT_Token.git"
+  },
+  "author": "damien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienh972/NFT_Token/issues"
+  },
+  "homepage": "https://github.com/damienh972/NFT_Token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
