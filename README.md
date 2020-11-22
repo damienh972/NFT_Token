@@ -19,7 +19,7 @@ NFT token is a new standart token who include an unique id for an unique virtual
 First, install truffle `npm install truffle -g`
 
 
-## Using Ganache :  
+## (Test environment) Deploy with Ganache :  
 
 
 &nbsp;
@@ -37,6 +37,24 @@ First, install truffle `npm install truffle -g`
 
 &nbsp;  
 
-## Using Remix :
+## Deploy with Remix :
 
-1. 
+1. Copy code on https://github.com/damienh972/NFT_Token/blob/main/contracts/NFT.sol and paste in Remix ide.  
+
+
+2. Replace imports by :
+
+`import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC721/ERC721.sol";`  
+
+`import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/Counters.sol";`  
+                        
+3. Set your ENVIRONMENT and enter **name** and **symbol** to deploy NFT contract.  
+
+
+4. Use addItem function in your deployed contract with : 
+  - Your public address on metamask.  
+  - Your token URI (ex. "https://burst.shopifycdn.com/photos/cute-dog-in-blanket.jpg?width=1000&format=pjpg&exif=0&iptc=0").  
+ 
+5. In your metasmask, add a new token with contract address deployed before!:sunglasses:
+                        
+              
