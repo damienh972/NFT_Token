@@ -31,7 +31,7 @@ First, install truffle `npm install truffle -g`
 
 2. In your terminal,go to folder's root and enter `$npm install` or `$yarn add`, this will import all node_modules from package.json
 
-3. Replace Name and symbol in contract constructor by your choice.
+3. Replace **name** and **symbol** in contract constructor by your choice.
 
 4. Open Ganache (you can download Ganache here https://www.trufflesuite.com/ganache) , and connect it to your metamask browser.
 
