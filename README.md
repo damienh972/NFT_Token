@@ -7,16 +7,19 @@
 With this repo, you will be able to create your own "NFT collectible token" on ganache tesnet. 
 
 
-NFT token is a new standart token who include an unique id for an unique virtual asset like cryptokitties's or axie infinity's NFT 
+NFT token is a new standart token who include an unique id for an unique virtual asset like cryptokitties's or axie infinity's NFT :fire:
 
 
-Robsten test network feature soon availlable!:fire:                                     
-      
-            
+                                            
 &nbsp;
 
 
 # Get started  
+
+First, install truffle `npm install truffle -g`
+
+
+## Using Ganache :  
 
 
 &nbsp;
@@ -28,6 +31,12 @@ Robsten test network feature soon availlable!:fire:
 
 3. Replace Name and symbol in contract constructor by your choice.
 
-4. Open Ganache (you can download Ganache here https://www.trufflesuite.com/ganache) , and connect to your metamask browser.
+4. Open Ganache (you can download Ganache here https://www.trufflesuite.com/ganache) , and connect it to your metamask browser.
 
-5. In your terminal, go to folder's root and enter `truffle migrate`, this will compile and deploy contract on ganache.
+5. In your terminal, go to folder's root and enter `truffle migrate`, this will compile and deploy contract on ganache.  
+
+&nbsp;  
+
+## Using Remix :
+
+1. 
