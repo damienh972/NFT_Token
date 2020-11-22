@@ -12,8 +12,10 @@ NFT token is a new standart token who include an unique id for an unique virtual
 learn more at: https://www.ledger.com/academy/what-are-nft#:~:text=%E2%80%93%20Non%2Dfungible%20tokens%20(or,such%20as%20TRON%20and%20NEO  
 
 
-
 &nbsp;
+
+We're using OpenZeppelin contracts which provide secure audited smartcontracts.  
+More at : https://openzeppelin.com
 
 
 # Get started  
