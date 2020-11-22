@@ -4,13 +4,15 @@
 &nbsp;
 
 
-With this repo, you will be able to create your own "NFT collectible token" on ganache tesnet. 
+With this repo, you will be able to create your own "NFT collectible token" on ganache tesnet or any network using remix ide. 
 
 
-NFT token is a new standart token who include an unique id for an unique virtual asset like cryptokitties's or axie infinity's NFT :fire:
+NFT token is a new standart token who include an unique id for an unique virtual asset like cryptokitties's or axie infinity's NFT :fire:  
+
+learn more at: https://www.ledger.com/academy/what-are-nft#:~:text=%E2%80%93%20Non%2Dfungible%20tokens%20(or,such%20as%20TRON%20and%20NEO  
 
 
-                                            
+
 &nbsp;
 
 
